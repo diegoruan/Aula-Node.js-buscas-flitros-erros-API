@@ -1,9 +1,5 @@
 import NaoEncontrado from "../erros/NaoEncontrado.js";
-<<<<<<< HEAD
 import { autores, livros } from "../models/index.js";
-=======
-import livros from "../models/Livro.js";
->>>>>>> parent of c1b25ab (Aula 3)
 
 class LivroController {
 
