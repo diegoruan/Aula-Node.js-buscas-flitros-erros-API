@@ -1,7 +1,5 @@
 ![imagem de apresentação](https://i.imgur.com/dBbRydc.png)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Material da aula de Node.js: lidando com buscas, filtros, paginação e erros em uma API
 
 Arquivos que usei em aula
